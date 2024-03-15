@@ -101,9 +101,9 @@
 
 <h1 align="center">📊 My Github Stats</h1>
   <br/>
-<p align="center"><img alt="Karthik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AkhileshJyotishi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></p>
+<p align="center"><img alt="Akhilesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AkhileshJyotishi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></p>
 
-<p align="center"><img alt="Karthik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikS373&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></p>
+<p align="center"><img alt="Akhilesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikS373&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></p>
   <br/>
 
 <br/>
@@ -116,11 +116,9 @@
 <br>
 
 <p align="center" gap="10">
-<a href="https://karthik-is-dev.xyz"><img src="https://img.shields.io/badge/-portfolio-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:karthiks.naick@gmail.com"><img src="https://img.shields.io/badge/-email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/0xkarthiks/"><img src="https://img.shields.io/badge/-instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/0xkarthikjr"><img src="https://img.shields.io/badge/-twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="/https://www.linkedin.com/in/akhilesh-jyotishi-225425255/"><img src="https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:akhileshjyotishi1729@gmail.com"><img src="https://img.shields.io/badge/-email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/AkhileshJyotishi/"><img src="https://img.shields.io/badge/-instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
 <br/>
