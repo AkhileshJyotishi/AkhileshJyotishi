@@ -21,7 +21,7 @@
 
 <a href="#" ><img width="400" align="right" style="margin-lefts:25x;" height="auto" src="https://i.imgur.com/iXuL1HG.png"/></a>
 
-- 👨‍🎓 Sophomore at **[IIIT Lucknow](https://iiitl.ac.in/)**
+- 👨‍🎓 Pre-Final Year at **[IIIT Lucknow](https://iiitl.ac.in/)**
 
 - 🖥 **2 years of experience** building and developing software applications
 
